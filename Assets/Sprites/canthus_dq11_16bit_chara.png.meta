@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 428087c6f38633140b0c6d06d713d229
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5140433668791362421
+    second: canthus_dq11_16bit_chara_0
+  - first:
+      213: 4493249519194413410
+    second: canthus_dq11_16bit_chara_1
+  - first:
+      213: -2031897320922312072
+    second: canthus_dq11_16bit_chara_2
+  - first:
+      213: 2252239762412019547
+    second: canthus_dq11_16bit_chara_3
+  - first:
+      213: -8485564241307019019
+    second: canthus_dq11_16bit_chara_4
+  - first:
+      213: -5470760107387358608
+    second: canthus_dq11_16bit_chara_5
+  - first:
+      213: 2674880872396187220
+    second: canthus_dq11_16bit_chara_6
+  - first:
+      213: 8953743548733329490
+    second: canthus_dq11_16bit_chara_7
+  - first:
+      213: 693520694124820763
+    second: canthus_dq11_16bit_chara_8
+  - first:
+      213: -8036310367557428942
+    second: canthus_dq11_16bit_chara_9
+  - first:
+      213: 4283809517789861674
+    second: canthus_dq11_16bit_chara_10
+  - first:
+      213: 1779120234614541921
+    second: canthus_dq11_16bit_chara_11
+  - first:
+      213: -2542243768694679565
+    second: canthus_dq11_16bit_chara_12
+  - first:
+      213: 7244150761005044188
+    second: canthus_dq11_16bit_chara_13
+  - first:
+      213: 3570367219112311616
+    second: canthus_dq11_16bit_chara_14
+  - first:
+      213: -8374187522857791139
+    second: canthus_dq11_16bit_chara_15
+  - first:
+      213: 1627969541875731851
+    second: canthus_dq11_16bit_chara_16
+  - first:
+      213: 2866578631878202738
+    second: canthus_dq11_16bit_chara_17
+  - first:
+      213: -7039854681032556098
+    second: canthus_dq11_16bit_chara_18
+  - first:
+      213: 72956917984662707
+    second: canthus_dq11_16bit_chara_19
+  - first:
+      213: 5049881191279774652
+    second: canthus_dq11_16bit_chara_20
+  - first:
+      213: 3327421510179165673
+    second: canthus_dq11_16bit_chara_21
+  - first:
+      213: -9004176674489628424
+    second: canthus_dq11_16bit_chara_22
+  - first:
+      213: 8995567073473021758
+    second: canthus_dq11_16bit_chara_23
+  - first:
+      213: -6600033242903168518
+    second: canthus_dq11_16bit_chara_24
+  - first:
+      213: 358570599265123156
+    second: canthus_dq11_16bit_chara_25
+  - first:
+      213: 4826406465962796452
+    second: canthus_dq11_16bit_chara_26
+  - first:
+      213: -793968454191949155
+    second: canthus_dq11_16bit_chara_27
+  - first:
+      213: -2133184276128395758
+    second: canthus_dq11_16bit_chara_28
+  - first:
+      213: -7294464650117567645
+    second: canthus_dq11_16bit_chara_29
+  - first:
+      213: -256791998172114009
+    second: canthus_dq11_16bit_chara_30
+  - first:
+      213: 630103799725106640
+    second: canthus_dq11_16bit_chara_31
+  - first:
+      213: -7802720567654612558
+    second: canthus_dq11_16bit_chara_32
+  - first:
+      213: -2781203830267146835
+    second: canthus_dq11_16bit_chara_33
+  - first:
+      213: -7705152173531387835
+    second: canthus_dq11_16bit_chara_34
+  - first:
+      213: -1462492698505763620
+    second: canthus_dq11_16bit_chara_35
+  - first:
+      213: 4870997545973359643
+    second: canthus_dq11_16bit_chara_36
+  - first:
+      213: -7922781924594465531
+    second: canthus_dq11_16bit_chara_37
+  - first:
+      213: -8343863111589519258
+    second: canthus_dq11_16bit_chara_38
+  - first:
+      213: 3185205426004862207
+    second: canthus_dq11_16bit_chara_39
+  - first:
+      213: -6616503124727786777
+    second: canthus_dq11_16bit_chara_40
+  - first:
+      213: -609644718383729080
+    second: canthus_dq11_16bit_chara_41
+  - first:
+      213: 224546269241798261
+    second: canthus_dq11_16bit_chara_42
+  - first:
+      213: 5134316209216413824
+    second: canthus_dq11_16bit_chara_43
+  - first:
+      213: -5624358800545212401
+    second: canthus_dq11_16bit_chara_44
+  - first:
+      213: -528571390639849162
+    second: canthus_dq11_16bit_chara_45
+  - first:
+      213: -7627983429975202686
+    second: canthus_dq11_16bit_chara_46
+  - first:
+      213: 7574088426159974845
+    second: canthus_dq11_16bit_chara_47
+  - first:
+      213: -3604153389431166147
+    second: canthus_dq11_16bit_chara_48
+  - first:
+      213: -1593017627383975779
+    second: canthus_dq11_16bit_chara_49
+  - first:
+      213: 185009727373738814
+    second: canthus_dq11_16bit_chara_50
+  - first:
+      213: 3960314642710602703
+    second: canthus_dq11_16bit_chara_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 319
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c9b3c30d289a8b0800000000000000
+      internalID: -5140433668791362421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 319
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26917c6a1aa3b5e30800000000000000
+      internalID: 4493249519194413410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 319
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8729b5ee6204dc3e0800000000000000
+      internalID: -2031897320922312072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 319
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f149b8120914f10800000000000000
+      internalID: 2252239762412019547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 319
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8532ee7483d3a80800000000000000
+      internalID: -8485564241307019019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 319
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0727ccbeaa4f314b0800000000000000
+      internalID: -5470760107387358608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 319
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45669a73bf51f1520800000000000000
+      internalID: 2674880872396187220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_7
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 319
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25012309156124c70800000000000000
+      internalID: 8953743548733329490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_8
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 319
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1931b99561ef9900800000000000000
+      internalID: 693520694124820763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_9
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 319
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23953f48c4a497090800000000000000
+      internalID: -8036310367557428942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_10
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a275d415f06237b30800000000000000
+      internalID: 4283809517789861674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_11
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ec8ec5d64b0b810800000000000000
+      internalID: 1779120234614541921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7d08203c228bcd0800000000000000
+      internalID: -2542243768694679565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1d4196cb4688460800000000000000
+      internalID: 7244150761005044188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_14
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 255
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b73e4b11e7c8130800000000000000
+      internalID: 3570367219112311616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 255
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d519d89f0d8e8cb80800000000000000
+      internalID: -8374187522857791139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_16
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 255
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d88a84ca5b79610800000000000000
+      internalID: 1627969541875731851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 255
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27553d1f31228c720800000000000000
+      internalID: 2866578631878202738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 255
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb10fa267796d4e90800000000000000
+      internalID: -7039854681032556098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_19
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 255
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4126c2ee1330100800000000000000
+      internalID: 72956917984662707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_20
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 255
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb48242038c41640800000000000000
+      internalID: 5049881191279774652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 191
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5193ceb306d2e20800000000000000
+      internalID: 3327421510179165673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 191
+        width: 62
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8003e450dba0380800000000000000
+      internalID: -9004176674489628424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_23
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 191
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e374f8fb79ca6dc70800000000000000
+      internalID: 8995567073473021758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_24
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 191
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af9bcfaebb8f764a0800000000000000
+      internalID: -6600033242903168518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 191
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bb81c6f06e9f400800000000000000
+      internalID: 358570599265123156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_26
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 191
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a56c510c17daf240800000000000000
+      internalID: 4826406465962796452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_27
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 191
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ad505c5e14bf4f0800000000000000
+      internalID: -793968454191949155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_28
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 191
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21e0be4f3386562e0800000000000000
+      internalID: -2133184276128395758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_29
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 191
+        width: 24
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b29176c0bd4ca90800000000000000
+      internalID: -7294464650117567645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_30
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 191
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3d9c7c901bf6cf0800000000000000
+      internalID: -256791998172114009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d52d3241149eb800800000000000000
+      internalID: 630103799725106640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_32
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 127
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1005bfbfa27b390800000000000000
+      internalID: -7802720567654612558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_33
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 127
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad88f01add2769d0800000000000000
+      internalID: -2781203830267146835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_34
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 66
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548255cfbecc11590800000000000000
+      internalID: -7705152173531387835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_35
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 127
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd426faa3ae24bbe0800000000000000
+      internalID: -1462492698505763620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_36
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 127
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14aa8dd572499340800000000000000
+      internalID: 4870997545973359643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 127
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50549a7f0df9c0290800000000000000
+      internalID: -7922781924594465531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_38
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 127
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 660a83b25b4a43c80800000000000000
+      internalID: -8343863111589519258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_39
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 127
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4aaa1857f143c20800000000000000
+      internalID: 3185205426004862207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_40
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 127
+        width: 28
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2965bb6757d24a0800000000000000
+      internalID: -6616503124727786777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_41
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 63
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8467b81db5b1a87f0800000000000000
+      internalID: -609644718383729080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_42
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 63
+        width: 26
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57eebc564afbd1300800000000000000
+      internalID: 224546269241798261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_43
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080efd6b361c04740800000000000000
+      internalID: 5134316209216413824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_44
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 63
+        width: 122
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f081924587342f1b0800000000000000
+      internalID: -5624358800545212401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_45
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 63
+        width: 124
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6314a76ee132aa8f0800000000000000
+      internalID: -528571390639849162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28423c73c75f32690800000000000000
+      internalID: -7627983429975202686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_47
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9a9aa5b419c1960800000000000000
+      internalID: 7574088426159974845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_48
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b6fe286997bfdc0800000000000000
+      internalID: -3604153389431166147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 66
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90b7d678e674e9e0800000000000000
+      internalID: -1593017627383975779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 0
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e338a18ed59419200800000000000000
+      internalID: 185009727373738814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: canthus_dq11_16bit_chara_51
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 0
+        width: 28
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc32b855f2dd5f630800000000000000
+      internalID: 3960314642710602703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      canthus_dq11_16bit_chara_0: -5140433668791362421
+      canthus_dq11_16bit_chara_1: 4493249519194413410
+      canthus_dq11_16bit_chara_10: 4283809517789861674
+      canthus_dq11_16bit_chara_11: 1779120234614541921
+      canthus_dq11_16bit_chara_12: -2542243768694679565
+      canthus_dq11_16bit_chara_13: 7244150761005044188
+      canthus_dq11_16bit_chara_14: 3570367219112311616
+      canthus_dq11_16bit_chara_15: -8374187522857791139
+      canthus_dq11_16bit_chara_16: 1627969541875731851
+      canthus_dq11_16bit_chara_17: 2866578631878202738
+      canthus_dq11_16bit_chara_18: -7039854681032556098
+      canthus_dq11_16bit_chara_19: 72956917984662707
+      canthus_dq11_16bit_chara_2: -2031897320922312072
+      canthus_dq11_16bit_chara_20: 5049881191279774652
+      canthus_dq11_16bit_chara_21: 3327421510179165673
+      canthus_dq11_16bit_chara_22: -9004176674489628424
+      canthus_dq11_16bit_chara_23: 8995567073473021758
+      canthus_dq11_16bit_chara_24: -6600033242903168518
+      canthus_dq11_16bit_chara_25: 358570599265123156
+      canthus_dq11_16bit_chara_26: 4826406465962796452
+      canthus_dq11_16bit_chara_27: -793968454191949155
+      canthus_dq11_16bit_chara_28: -2133184276128395758
+      canthus_dq11_16bit_chara_29: -7294464650117567645
+      canthus_dq11_16bit_chara_3: 2252239762412019547
+      canthus_dq11_16bit_chara_30: -256791998172114009
+      canthus_dq11_16bit_chara_31: 630103799725106640
+      canthus_dq11_16bit_chara_32: -7802720567654612558
+      canthus_dq11_16bit_chara_33: -2781203830267146835
+      canthus_dq11_16bit_chara_34: -7705152173531387835
+      canthus_dq11_16bit_chara_35: -1462492698505763620
+      canthus_dq11_16bit_chara_36: 4870997545973359643
+      canthus_dq11_16bit_chara_37: -7922781924594465531
+      canthus_dq11_16bit_chara_38: -8343863111589519258
+      canthus_dq11_16bit_chara_39: 3185205426004862207
+      canthus_dq11_16bit_chara_4: -8485564241307019019
+      canthus_dq11_16bit_chara_40: -6616503124727786777
+      canthus_dq11_16bit_chara_41: -609644718383729080
+      canthus_dq11_16bit_chara_42: 224546269241798261
+      canthus_dq11_16bit_chara_43: 5134316209216413824
+      canthus_dq11_16bit_chara_44: -5624358800545212401
+      canthus_dq11_16bit_chara_45: -528571390639849162
+      canthus_dq11_16bit_chara_46: -7627983429975202686
+      canthus_dq11_16bit_chara_47: 7574088426159974845
+      canthus_dq11_16bit_chara_48: -3604153389431166147
+      canthus_dq11_16bit_chara_49: -1593017627383975779
+      canthus_dq11_16bit_chara_5: -5470760107387358608
+      canthus_dq11_16bit_chara_50: 185009727373738814
+      canthus_dq11_16bit_chara_51: 3960314642710602703
+      canthus_dq11_16bit_chara_6: 2674880872396187220
+      canthus_dq11_16bit_chara_7: 8953743548733329490
+      canthus_dq11_16bit_chara_8: 693520694124820763
+      canthus_dq11_16bit_chara_9: -8036310367557428942
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
