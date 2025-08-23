@@ -1,4 +1,7 @@
-public interface ISystem
+namespace RPG.Systems
 {
-    void Tick(float deltaTime);
+    public interface ISystem
+    {
+        void Tick(float deltaTime);
+    }
 }

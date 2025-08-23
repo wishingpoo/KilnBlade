@@ -1,14 +1,18 @@
 using System.Collections.Generic;
+using RPG.Systems;
 
-public class Game
+namespace RPG.Core
 {
-    private readonly List<ISystem> systems = new();
-
-    public void AddSystem(ISystem system) => systems.Add(system);
-
-    public void Tick(float deltaTime)
+    public class Game
     {
-        foreach (var s in systems)
-            s.Tick(deltaTime);
+        private readonly List<ISystem> systems = new();
+
+        public void AddSystem(ISystem system) => systems.Add(system);
+
+        public void Tick(float deltaTime)
+        {
+            foreach (var s in systems)
+                s.Tick(deltaTime);
+        }
     }
 }

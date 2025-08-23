@@ -1,5 +1,8 @@
-public interface ISerializableSystem
+namespace RPG.Systems
 {
-    object CaptureState();
-    void RestoreState(object state);
+    public interface ISerializableSystem
+    {
+        object CaptureState();
+        void RestoreState(object state);
+    }
 }

@@ -1,17 +1,21 @@
 using UnityEngine;
+using RPG.Systems;
 
-public class PlayerView : MonoBehaviour
+namespace RPG.Presentation
 {
-    private PlayerSystem player;
-
-    public void Initialize(PlayerSystem playerSystem)
+    public class PlayerView : MonoBehaviour
     {
-        player = playerSystem;
-    }
+        private PlayerSystem player;
 
-    void LateUpdate()
-    {
-        if (player != null)
-            transform.position = player.Position;
+        public void Initialize(PlayerSystem playerSystem)
+        {
+            player = playerSystem;
+        }
+
+        void LateUpdate()
+        {
+            if (player != null)
+                transform.position = player.Position;
+        }
     }
 }

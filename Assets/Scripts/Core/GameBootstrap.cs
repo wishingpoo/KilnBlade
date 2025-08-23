@@ -1,27 +1,32 @@
 using UnityEngine;
+using RPG.Systems;
+using RPG.Presentation;
 
-public class GameBootstrap : MonoBehaviour
+namespace RPG.Core
 {
-    public PlayerView playerPrefab;
-
-    Game game;
-
-    void Awake()
+    public class GameBootstrap : MonoBehaviour
     {
-        // Steam Deck resolution
-        Screen.SetResolution(1280, 800, true);
+        public PlayerView playerPrefab;
 
-        game = new Game();
-        var player = new PlayerSystem();
-        game.AddSystem(player);
+        Game game;
 
-        // Spawn player view and bind to logic
-        var playerView = Instantiate(playerPrefab);
-        playerView.Initialize(player);
-    }
+        void Awake()
+        {
+            // Steam Deck resolution
+            Screen.SetResolution(1280, 800, true);
 
-    void Update()
-    {
-        game.Tick(Time.deltaTime);
+            game = new Game();
+            var player = new PlayerSystem();
+            game.AddSystem(player);
+
+            // Spawn player view and bind to logic
+            var playerView = Instantiate(playerPrefab);
+            playerView.Initialize(player);
+        }
+
+        void Update()
+        {
+            game.Tick(Time.deltaTime);
+        }
     }
 }
