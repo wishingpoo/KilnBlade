@@ -79,9 +79,18 @@ namespace RPG.Core
             int disposed = 0;
             foreach (var disposable in _disposables)
             {
-                disposable.Dispose();
-                disposed++;
+                try
+                {
+                    disposable.Dispose();
+                    disposed++;
+                }
+                catch (Exception ex)
+                {
+                    Debug.LogException(ex);
+                }
             }
+
+            _disposables.Clear();
 
             Debug.Log($"Disposed {disposed} services.");
         }
