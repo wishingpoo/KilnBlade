@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace RPG.Systems
+namespace RPG.Services
 {
     /// <summary>
     /// Root game state.

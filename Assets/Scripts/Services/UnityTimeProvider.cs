@@ -1,7 +1,7 @@
 using System;
 using UnityEngine;
 
-namespace RPG.Systems
+namespace RPG.Services
 {
     public interface ITimeProvider
     {

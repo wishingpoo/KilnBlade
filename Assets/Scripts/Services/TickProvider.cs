@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace RPG.Systems
+namespace RPG.Services
 {
     /// <summary>
     /// Provides a way to add and remove ticks from the game.
