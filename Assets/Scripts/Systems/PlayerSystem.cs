@@ -7,14 +7,14 @@ namespace RPG.Systems
     /// User controls the player.
     /// Player moves based on input.
     /// </summary>
-    public class PlayerSystem : IDisposable
+    public class PlayerController : IDisposable
     {
         readonly GameState _state;
         readonly PlayerControls _controls;
         readonly ITimeProvider _time;
         readonly ITickProvider _ticks;
 
-        public PlayerSystem(
+        public PlayerController(
             GameState state,
             ITimeProvider time,
             ITickProvider ticks)

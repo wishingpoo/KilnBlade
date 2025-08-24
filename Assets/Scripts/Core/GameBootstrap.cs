@@ -28,13 +28,13 @@ namespace RPG.Core
             _services.Register(_tickProvider = new TickProvider());
 
             _services.RegisterFactory(() =>
-                new PlayerSystem(
+                new PlayerController(
                     _services.Resolve<GameState>(),
                     _services.Resolve<ITimeProvider>(),
                     _services.Resolve<ITickProvider>()));
 
             // Force instantiation of player system.  TODO: consider a better way to do this like zenject's .NonLazy() on a factory registration
-            _services.Resolve<PlayerSystem>();
+            _services.Resolve<PlayerController>();
 
             RegisterViews(_services);
 
