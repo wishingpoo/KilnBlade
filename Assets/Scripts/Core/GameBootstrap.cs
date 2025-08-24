@@ -18,14 +18,13 @@ namespace RPG.Core
 
         void Awake()
         {
-            InitializeGraphics();
-
             _services = new ServiceRegistry();
             ServiceLocator.Initialize(_services);
 
             _services.Register(new GameState());
             _services.Register(new UnityTimeProvider() as ITimeProvider);
             _services.Register(_tickProvider = new TickProvider());
+            _services.Register(new DisplayService());
 
             _services.RegisterFactory(() =>
                 new PlayerController(
@@ -49,12 +48,6 @@ namespace RPG.Core
         void Update()
         {
             _tickProvider.Update();
-        }
-
-        void InitializeGraphics()
-        {
-            // Steam Deck resolution: TODO refactor to some kind of settings / graphics system
-            Screen.SetResolution(1280, 800, true);
         }
 
         void RegisterViews(ServiceRegistry services)
