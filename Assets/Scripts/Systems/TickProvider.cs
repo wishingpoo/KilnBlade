@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using UnityEngine;
 
 namespace RPG.Systems
 {
@@ -63,7 +64,16 @@ namespace RPG.Systems
             {
                 var ticks = _ticks[i];
                 foreach (var tick in ticks)
-                    tick.Invoke();
+                {
+                    try
+                    {
+                        tick.Invoke();
+                    }
+                    catch (Exception ex)
+                    {
+                        Debug.LogException(ex);
+                    }
+                }
             }
         }
 
