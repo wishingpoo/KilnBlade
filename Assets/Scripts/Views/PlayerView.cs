@@ -2,7 +2,7 @@ using System;
 using UnityEngine;
 using RPG.Services;
 
-namespace RPG.Presentation
+namespace RPG.Views
 {
     public class PlayerView : MonoBehaviour, IDisposable
     {

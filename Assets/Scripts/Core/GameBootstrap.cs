@@ -1,6 +1,6 @@
 using UnityEngine;
 using RPG.Services;
-using RPG.Presentation;
+using RPG.Views;
 
 namespace RPG.Core
 {
