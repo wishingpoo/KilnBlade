@@ -1,24 +1,46 @@
+using System;
 using UnityEngine;
 
 namespace RPG.Systems
 {
-    public class PlayerSystem : ISystem
+    /// <summary>
+    /// User controls the player.
+    /// Player moves based on input.
+    /// </summary>
+    public class PlayerSystem : IDisposable
     {
-        public Vector2 Position { get; private set; }
-        public float Speed = 4f;
+        readonly GameState _state;
+        readonly PlayerControls _controls;
+        readonly ITimeProvider _time;
+        readonly ITickProvider _ticks;
 
-        private PlayerControls controls;
-
-        public PlayerSystem()
+        public PlayerSystem(
+            GameState state,
+            ITimeProvider time,
+            ITickProvider ticks)
         {
-            controls = new PlayerControls();
-            controls.Enable();
+            _state = state;
+            _time = time;
+            _ticks = ticks;
+
+            _controls = new PlayerControls();
+            _controls.Enable();
+
+            _ticks.AddTick(Tick);
         }
 
-        public void Tick(float deltaTime)
+        void Tick()
         {
-            Vector2 movement = controls.Player.Move.ReadValue<Vector2>();
-            Position += movement.normalized * Speed * deltaTime;
+            Vector2 movement = _controls.Player.Move.ReadValue<Vector2>();
+            _state.Player.Position += movement.normalized * _state.Player.Speed * _time.DeltaTime;
+        }
+
+        public void Dispose()
+        {
+            _ticks.RemoveTick(Tick);
+
+            _controls.Player.Disable();
+            _controls.Dispose();
         }
     }
 }

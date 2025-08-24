@@ -1,21 +1,30 @@
+using System;
 using UnityEngine;
 using RPG.Systems;
 
 namespace RPG.Presentation
 {
-    public class PlayerView : MonoBehaviour
+    public class PlayerView : MonoBehaviour, IDisposable
     {
-        private PlayerSystem player;
+        GameState _state;
+        ITickProvider _ticks;
 
-        public void Initialize(PlayerSystem playerSystem)
+        public void Bind(GameState state, ITickProvider ticks)
         {
-            player = playerSystem;
+            _state = state;
+            _ticks = ticks;
+
+            _ticks.AddTick(Tick, TickPriority.Late);
         }
 
-        void LateUpdate()
+        public void Dispose()
         {
-            if (player != null)
-                transform.position = player.Position;
+            _ticks.RemoveTick(Tick);
+        }
+
+        void Tick()
+        {
+            transform.position = _state.Player.Position;
         }
     }
 }
