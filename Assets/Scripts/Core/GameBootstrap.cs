@@ -26,6 +26,12 @@ namespace RPG.Core
             _services.Register(_tickProvider = new TickProvider());
             _services.Register(new DisplayService());
 
+            _services.RegisterFactory(() => new AudioManager(
+                new GameObject("AudioRoot"),
+                _services.Resolve<ITimeProvider>(),
+                _services.Resolve<ITickProvider>())
+               );
+
             _services.RegisterFactory(() =>
                 new PlayerController(
                     _services.Resolve<GameState>(),
