@@ -371,6 +371,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   playerPrefab: {fileID: 6211118490413698983, guid: c01513aee2561b948919a1bf04a327ca, type: 3}
   footstepLibrary: {fileID: 11400000, guid: 366846ae28558448ab620b6313a521b1, type: 2}
+  bgmLibrary: {fileID: 11400000, guid: eab08c0531d6a48618fc1bc32d038007, type: 2}
 --- !u!4 &736216361
 Transform:
   m_ObjectHideFlags: 0
