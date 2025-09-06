@@ -17,5 +17,8 @@ namespace RPG.Services
     {
         public Vector2 Position { get; set; } = Vector2.zero;
         public float Speed { get; set; } = 4f;
+
+        // For footsteps
+        public float DistanceSinceLastStep { get; set; } = 0f;
     }
 }

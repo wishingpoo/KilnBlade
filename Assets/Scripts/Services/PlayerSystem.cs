@@ -32,7 +32,14 @@ namespace RPG.Services
         void Tick()
         {
             Vector2 movement = _controls.Player.Move.ReadValue<Vector2>();
-            _state.Player.Position += movement.normalized * _state.Player.Speed * _time.DeltaTime;
+            if (movement.sqrMagnitude <= 0f)
+                return;
+
+            Vector2 newPosition = _state.Player.Position + movement.normalized * _state.Player.Speed * _time.DeltaTime;
+
+            float distanceTraveled = Vector2.Distance(_state.Player.Position, newPosition);
+            _state.Player.DistanceSinceLastStep += distanceTraveled;
+            _state.Player.Position = newPosition;
         }
 
         public void Dispose()
