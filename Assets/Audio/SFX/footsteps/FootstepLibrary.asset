@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1833cc3803e94c908d14f4c39d5a7b3, type: 3}
+  m_Name: FootstepLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::RPG.Services.FootstepLibrary
+  Surfaces:
+  - SurfaceName: grass
+    Clips:
+    - {fileID: 8300000, guid: bd0ea426df2c14ca6877671a1d631b98, type: 3}
+    - {fileID: 8300000, guid: 764a1582d6821491fba202d0525531e7, type: 3}
+    - {fileID: 8300000, guid: 47985bdf609e043d7ab8b7e97e22c47d, type: 3}
+    - {fileID: 8300000, guid: 3374bae57ee994de18de5ea699c9a0b0, type: 3}
+    - {fileID: 8300000, guid: c06bfdcf3541944bb90e4736e91c1f50, type: 3}
+    - {fileID: 8300000, guid: 4c7bb03ad02654da39e615430ab4c6af, type: 3}
+    - {fileID: 8300000, guid: 50ccca14df53448b3809a37e27f288f5, type: 3}
+    - {fileID: 8300000, guid: db838520882714ae0967f8f4fe31d30c, type: 3}
+    - {fileID: 8300000, guid: 62da7607a9b684b41802d74ba1052a76, type: 3}
