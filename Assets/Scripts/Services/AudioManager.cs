@@ -181,8 +181,10 @@ namespace RPG.Services
         {
             CancelFade();
 
-            UnityEngine.Object.Destroy(_a.gameObject);
-            UnityEngine.Object.Destroy(_b.gameObject);
+            if (_a != null)
+                UnityEngine.Object.Destroy(_a.gameObject);
+            if (_b != null)
+                UnityEngine.Object.Destroy(_b.gameObject);
         }
     }
 
@@ -256,9 +258,13 @@ namespace RPG.Services
         {
             _ticks.RemoveTick(Update);
 
-            foreach (var src in _pool) UnityEngine.Object.Destroy(src.gameObject);
-            foreach (var src in _active) UnityEngine.Object.Destroy(src.gameObject);
+            foreach (var src in _pool)
+                if (src != null)
+                    UnityEngine.Object.Destroy(src.gameObject);
+
+            foreach (var src in _active)
+                if (src != null)
+                    UnityEngine.Object.Destroy(src.gameObject);
         }
     }
-
 }
