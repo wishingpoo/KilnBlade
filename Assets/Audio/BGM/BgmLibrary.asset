@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 205f6ddd876d941209484d6ee460bfde, type: 3}
+  m_Name: BgmLibrary
+  m_EditorClassIdentifier: Assembly-CSharp::RPG.Services.BgmLibrary
+  entries:
+  - key: River
+    clip: {fileID: 8300000, guid: 70e2143d96fcd4fb0bffef248bec2df5, type: 3}
+  - key: Forest
+    clip: {fileID: 8300000, guid: dc497c69f875d40229d93090a4ee3147, type: 3}
+  - key: Garden
+    clip: {fileID: 8300000, guid: f058ed7a3179e4dc39954637041fad02, type: 3}
+  - key: Conflict
+    clip: {fileID: 8300000, guid: 1b35d039711ed4d159ca558649f7c5c8, type: 3}
