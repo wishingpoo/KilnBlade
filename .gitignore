@@ -33,3 +33,6 @@ MemoryCaptures/
 
 .vscode/
 UserSettings/
+
+# Some auto-generated Unity settings
+ProjectSettings/SceneTemplateSettings.json
