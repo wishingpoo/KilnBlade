@@ -13,7 +13,6 @@ namespace RPG.Core
     {
         public PlayerView playerPrefab;
         public FootstepLibrary footstepLibrary;
-        public BgmLibrary bgmLibrary;
 
         ServiceRegistry _services;
         ITickProvider _tickProvider;
@@ -45,18 +44,19 @@ namespace RPG.Core
                     _services.Resolve<GameState>(),
                     _services.Resolve<ITimeProvider>(),
                     _services.Resolve<ITickProvider>()));
+
+            _services.RegisterFactory(() => new BgmLibrary());
             
             _services.RegisterFactory(() =>
                 new BgmSystem(
-                    _services.Resolve<GameState>(),
-                    bgmLibrary,
                     _services.Resolve<IAudioManager>(),
-                    _services.Resolve<ITickProvider>()));
+                    _services.Resolve<BgmLibrary>()));
 
             // Force instantiation of systems.  TODO: consider a better way to do this like zenject's .NonLazy() on a factory registration
             _services.Resolve<PlayerController>();
             _services.Resolve<IAudioManager>();
             _services.Resolve<FootstepSystem>();
+            _services.Resolve<BgmLibrary>();
             _services.Resolve<BgmSystem>();
 
             RegisterViews(_services);
