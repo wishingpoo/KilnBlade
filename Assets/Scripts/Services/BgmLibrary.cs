@@ -84,6 +84,7 @@ namespace RPG.Services
                 else
                 {
                     Debug.LogError($"BgmLibrary: Failed to load Addressable '{key}' - Status: {h.Status}");
+                    _pendingCallbacks.Remove(key);
                     Addressables.Release(h);
                 }
             };
